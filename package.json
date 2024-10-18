@@ -6,6 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat-bhansali/drive-db-client.git"
+  },
+  "keywords": [
+    "node",
+    "google",
+    "drive",
+    "service",
+    "account",
+    "files",
+    "auth",
+    "server",
+    "googleapis",
+    "google drive"
+  ],
   "author": "Akshat Bhansali",
   "license": "ISC",
   "dependencies": {
